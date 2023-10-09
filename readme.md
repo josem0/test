@@ -24,12 +24,13 @@
 
 <!-- RESUMEN DEL TALLER -->
 ## Resumen del Taller
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Se desarrolló un programa para el manejo de software según los siguientes requerimiento:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* El usuario debe ser capaz de agregar o eliminar software de su biblioteca.
+* Los softwares se deben dividir en tipos. (juegos, ofimática, producción, Navegadores, Seguridad, Comunicación, etc.)
+* La biblioteca es compartida en un computador donde hay múltiples usuarios. Por lo tanto, si más de un usuario utiliza un software, se debe tener el permiso de todos los usuarios para borrar el software.
+* Los softwares tienen restricciones de edad y niveles de seguridad para acceder a ellos.
+* Se debe poder acceder al “log” de cada software (se necesita un nivel de seguridad mínimo para poder acceder al log) para conocer el uso que le están dando los usuarios.
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
