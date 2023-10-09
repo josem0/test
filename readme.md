@@ -10,7 +10,7 @@
 
 # Objetos Creados
 
-A continuación se detallan todos los objetos creados en el main durante la ejecución del programa, se encuentran ordenados desde los tipos de usuarios hasta los software. 
+A continuación se detallan todos los objetos creados en el main durante la ejecución del programa, se encuentran ordenados desde tipo de usuarios hasta tipo de software. 
 
 ### Administradores:
 * admin1: {usuario: "Juan"; contraseña: "1234"; edad: "29"; correo: "juanJ@gmail.com"; log: "false"}.
