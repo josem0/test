@@ -57,6 +57,18 @@ Use the `BLANK_README.md` to get started.
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
 
 # Código
+A continuación se detallan las funcionas usadas en el taller.
+### setListUsers
+
+### setListGames
+
+### setListOfficeSuites
+
+### setListProductions
+
+### setListBrowsers
+
+### setListSecurities
 
 # Objetos Creados
 
