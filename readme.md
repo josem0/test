@@ -32,7 +32,7 @@ A continuación se detallan todos los objetos creados en el main durante la ejec
 * usuarioNormal8: {usuario: "Luis"; contraseña: "luis2022"; edad: "19"; correo: "luisS@gmail.com"; log: "false"}.
 * usuarioNormal9: {usuario: "Diego"; contraseña: "diego777"; edad: "24"; correo: "diegoC@gmail.com"; log: "false"}.
 * usuarioNormal10: {usuario: "Valeria"; contraseña: "valeria444"; edad: "31"; correo: "valeriaR@gmail.com"; log: "false"}.
-##Software
+## Software
 ### Software de tipo Juego
 * juego1: {nombre: "The Legend of Zelda: Breath of the Wild"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "58990"; tipo: "Adventure"}.
 * juego2: {nombre: "The Legend of Zelda: Tears of the Kingdom"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "68790"; tipo: "Adventure"}.
