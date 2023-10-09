@@ -88,37 +88,7 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
 </div>
 
 ## setListGames
-<div align="center">
-    <img src="imagenes/setListGames.png" alt="Juegos" width="800" height="400">
-</div>
 
-## setListOfficeSuites
-<div align="center">
-    <img src="imagenes/setListOfficeSuites.png" alt="Ofimatica" width="800" height="300">
-</div>
-   
-## setListProductions
-<div align="center">
-    <img src="imagenes/setListProductions.png" alt="Produccion" width="800" height="300">
-</div>
-    
-## setListBrowsers
-<div align="center">
-    <img src="imagenes/setListBrowsers.png" alt="Navegador" width="800" height="300">
-</div>
-    
-## setListSecurities
-<div align="center">
-    <img src="imagenes/setListSecurities.png" alt="Seguridad" width="800" height="300">
-</div>
-
-## setListSocial
-<div align="center">
-    <img src="imagenes/setListSocials.png" alt="Social" width="800" height="300">
-</div>
-<p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
-    
-## Software
 ### Software de tipo Juego
 * juego1: {nombre: "The Legend of Zelda: Breath of the Wild"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "58990"; tipo: "Adventure"}.
 * juego2: {nombre: "The Legend of Zelda: Tears of the Kingdom"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "68790"; tipo: "Adventure"}.
@@ -142,6 +112,11 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
 * juego18: {nombre: "Shadow Warrior"; developer: "Flying Wild Hog"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "15500"; tipo: "Action"}.
 * juego19: {nombre: "Grnad theft Auto V"; developer: "Rockstar Games"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "27192"; tipo: "Open World"}.
 * juego20: {nombre: "The Witcher 3: Wild Hunt"; developer: "CD PROJEKT RED"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "18300"; tipo: "Open World"}.
+<div align="center">
+    <img src="imagenes/setListGames.png" alt="Juegos" width="800" height="400">
+</div>
+
+## setListOfficeSuites
 
 ### Software de tipo Ofimatica
 * ofimatica1: {nombre: "Microsoft Word"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "1000"}.
@@ -149,12 +124,22 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
 * ofimatica3: {nombre: "Microsoft PowerPoin"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "700"}.
 * ofimatica4: {nombre: "Microsoft Outlook"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "2000"}.
 * ofimatica5: {nombre: "Microsoft OneNote"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "100"}.
+<div align="center">
+    <img src="imagenes/setListOfficeSuites.png" alt="Ofimatica" width="800" height="300">
+</div>
+   
+## setListProductions
 
 ### Software de tipo Produccion
 * produccion1: {nombre: "Audacity"; developer: "The Audacity Team"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Audio"}.
 * produccion2: {nombre: "Vegas Pro"; developer: "Sony Creative Software"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "54000"; tipo: "Video"}.
 * produccion3: {nombre: "OBS Studio"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Streaming"}.
 * produccion4: {nombre: "Adobe Photoshop"; developer: ""; clasificacionEdad: "128"; listaUsuarios: "listUsers"; precio: "163200"; tipo: "Image"}.
+<div align="center">
+    <img src="imagenes/setListProductions.png" alt="Produccion" width="800" height="300">
+</div>
+    
+## setListBrowsers
 
 ### Software de tipo Navegador
 * historial1: {"https://www.op.gg/summoners/kr/hide%20on%20bush",
@@ -179,6 +164,11 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
                             "https://www.artstation.com/artwork/r9JNdG",
                             "https://www.artstation.com/artwork/6bNqdO"}.
 * navegador2: {nombre: "Microsoft Edge"; developer: "Microsoft Corporation"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial2"}.
+<div align="center">
+    <img src="imagenes/setListBrowsers.png" alt="Navegador" width="800" height="300">
+</div>
+    
+## setListSecurities
 
 ### Software de tipo Seguridad
 * seguridad1: {nombre: "Malwarebytes Anti-Ransomware"; developer: "Malwarebytes Corporation"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "7000"; tipo: "Ransomware"}.
@@ -187,8 +177,16 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
 * seguridad4: {nombre: "Sophos Intercept X"; developer: "Sophos Group plc"; clasificacionEdad:18""; listaUsuarios: "listUsers"; precio: "122400"; tipo: "Rootkits"}.
 * seguridad5: {nombre: "Norton 360"; developer: "Norton"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "16000"; tipo: "Computer Worms"}.
 * seguridad6: {nombre: "Kaspersky Total Security"; developer: "Kaspersky Lab"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "29610"; tipo: "Trojans"}.
+<div align="center">
+    <img src="imagenes/setListSecurities.png" alt="Seguridad" width="800" height="300">
+</div>
+
+## setListSocial
 
 ### Software de tipo Social
 * social1: {nombre: "Discord"; developer: "Electron"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends18"}.
 * social2: {nombre: "WhatsApp"; developer"Facebook Inc"; clasificacionEdad: "16"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends"}.
+<div align="center">
+    <img src="imagenes/setListSocials.png" alt="Social" width="800" height="300">
+</div>
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
