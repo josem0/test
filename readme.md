@@ -7,7 +7,8 @@
     Estructura de Datos Taller 1 - Anais Rodriguez
   </p>
 </div>
-#S
+
+<h2>Objetos Creados</h2>
 
 admin1: { usuario:"Juan"; contraseña:"1234"; edad:"29"; correo:"juanJ@gmail.com"; log:"false"}.
 
