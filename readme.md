@@ -49,16 +49,16 @@ juego18: {nombre:"Shadow Warrior"; developer:"Flying Wild Hog"; clasificacioneda
 juego19: {nombre:"Grnad theft Auto V"; developer:"Rockstar Games"; clasificacionedad:"18"; listausuarios:""; precio:"27192"; tipo:"Open World"}.
 juego20: {nombre:"The Witcher 3: Wild Hunt"; developer:"CD PROJEKT RED"; clasificacionedad:"18"; listausuarios:""; precio:"18300"; tipo:"Open World"}.
 
-ofimatica1: {nommbre:"Microsoft Word"; developer"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"1000"}.
-ofimatica2: {nommbre:"Microsoft Excel"; developer"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"200"}.
-ofimatica3: {nommbre:"Microsoft PowerPoin"; developer"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"700"}.
-ofimatica4: {nommbre:"Microsoft Outlook"; developer"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"2000"}.
-ofimatica5: {nommbre:"Microsoft OneNote"; developer"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"100"}.
+ofimatica1: {nommbre:"Microsoft Word"; developer:"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"1000"}.
+ofimatica2: {nommbre:"Microsoft Excel"; developer:"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"200"}.
+ofimatica3: {nommbre:"Microsoft PowerPoin"; developer:"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"700"}.
+ofimatica4: {nommbre:"Microsoft Outlook"; developer:"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"2000"}.
+ofimatica5: {nommbre:"Microsoft OneNote"; developer:"Microsoft"; clasificacionedad:"13"; listausuarios:""; precio:"139990"; cantidadarchivos:"100"}.
 
-produccion1: {nommbre:"Audacity"; developer"The Audacity Team"; clasificacionedad:"18"; listausuarios:""; precio:"0"; tipo:"Audio"}.
-produccion2: {nommbre:"Vegas Pro"; developer"Sony Creative Software"; clasificacionedad:"18"; listausuarios:""; precio:"54000"; tipo:"Video"}.
-produccion3: {nommbre:"OBS Studio"; developer""; clasificacionedad:"18"; listausuarios:""; precio:"0"; tipo:"Streaming"}.
-produccion4: {nommbre:"Adobe Photoshop"; developer""; clasificacionedad:"128"; listausuarios:""; precio:"163200"; tipo:"Image"}.
+produccion1: {nommbre:"Audacity"; developer:"The Audacity Team"; clasificacionedad:"18"; listausuarios:""; precio:"0"; tipo:"Audio"}.
+produccion2: {nommbre:"Vegas Pro"; developer:"Sony Creative Software"; clasificacionedad:"18"; listausuarios:""; precio:"54000"; tipo:"Video"}.
+produccion3: {nommbre:"OBS Studio"; developer:""; clasificacionedad:"18"; listausuarios:""; precio:"0"; tipo:"Streaming"}.
+produccion4: {nommbre:"Adobe Photoshop"; developer:""; clasificacionedad:"128"; listausuarios:""; precio:"163200"; tipo:"Image"}.
 
 historial1: {"https://www.op.gg/summoners/kr/hide%20on%20bush",
                             "https://youtu.be/fYwRsJAPfec?si=2wv1GfzPa8RnlXpt",
@@ -70,7 +70,7 @@ historial1: {"https://www.op.gg/summoners/kr/hide%20on%20bush",
                             "https://youtu.be/mYEA5A0Bjyo?si=GHS8xb3t6ZwznDTd",
                             "https://www.youtube.com/watch?v=fuAE3U1NvOs",
                             "https://www.youtube.com/watch?v=ZkbDwgH1lQE"}.
-navegador1: {nommbre:"Opera GX"; developer"Opera Software"; clasificacionedad:"13"; listausuarios:""; precio:"0"; historial:"historial1"}.
+navegador1: {nommbre:"Opera GX"; developer:"Opera Software"; clasificacionedad:"13"; listausuarios:""; precio:"0"; historial:"historial1"}.
 
 historial2: {"https://www.artstation.com/artwork/AlaEBq",
                             "https://www.artstation.com/artwork/w0PNrg",
@@ -82,36 +82,19 @@ historial2: {"https://www.artstation.com/artwork/AlaEBq",
                             "https://www.artstation.com/artwork/EvK1wq",
                             "https://www.artstation.com/artwork/r9JNdG",
                             "https://www.artstation.com/artwork/6bNqdO"}.
-navegador2: {nommbre:"Microsoft Edge"; developer"Microsoft Corporation"; clasificacionedad:"13"; listausuarios:""; precio:"0"; historial:"historial2"}.
+navegador2: {nommbre:"Microsoft Edge"; developer:"Microsoft Corporation"; clasificacionedad:"13"; listausuarios:""; precio:"0"; historial:"historial2"}.
 
-{nommbre:""; developer""; clasificacionedad:""; listausuarios:""; precio:"";}.
+{nommbre:""; developer:""; clasificacionedad:""; listausuarios:""; precio:"";}.
 
-seguridad1: {nommbre:"Malwarebytes Anti-Ransomware"; developer"Malwarebytes Corporation"; clasificacionedad:"18"; listausuarios:""; precio:"7000";}.
-seguridad2: {nommbre:"Ad-Aware"; developer""; clasificacionedad:""; listausuarios:""; precio:"";}.
-seguridad3: {nommbre:"Symantec Endpoint Protection"; developer""; clasificacionedad:""; listausuarios:""; precio:"";}.
-seguridad4: {nommbre:"Sophos Intercept X"; developer""; clasificacionedad:""; listausuarios:""; precio:"";}.
-seguridad5: {nommbre:"Norton 360"; developer""; clasificacionedad:""; listausuarios:""; precio:"";}.
-seguridad6: {nommbre:"Kaspersky Total Security"; developer""; clasificacionedad:""; listausuarios:""; precio:"";}.
+seguridad1: {nommbre:"Malwarebytes Anti-Ransomware"; developer:"Malwarebytes Corporation"; clasificacionedad:"18"; listausuarios:""; precio:"7000"; tipo:"Ransomware"}.
+seguridad2: {nommbre:"Ad-Aware"; developer:"Lavasoft"; clasificacionedad:"18"; listausuarios:""; precio:"0"; tipo:"Spyware"}.
+seguridad3: {nommbre:"Symantec Endpoint Protection"; developer:"Broadcom Inc"; clasificacionedad:"18"; listausuarios:""; precio:"23700"; tipo:"Botnets"}.
+seguridad4: {nommbre:"Sophos Intercept X"; developer:"Sophos Group plc"; clasificacionedad:18""; listausuarios:""; precio:"122400"; tipo:"Rootkits"}.
+seguridad5: {nommbre:"Norton 360"; developer:"Norton"; clasificacionedad:"18"; listausuarios:""; precio:"16000"; tipo:"Computer Worms"}.
+seguridad6: {nommbre:"Kaspersky Total Security"; developer:"Kaspersky Lab"; clasificacionedad:"18"; listausuarios:""; precio:"29610"; tipo:"Trojans"}.
 
+social1: {nommbre:"Discord"; developer:"Electron"; clasificacionedad:"18"; listausuarios:""; precio:"0"; usuarios:""}.
+social2: {nommbre:"WhatsApp"; developer"Facebook Inc"; clasificacionedad:"16"; listausuarios:""; precio:"0"; usuarios:""}.
 
-    //POBLAR SOFTWARE DE SEGURIDAD*************
-    Security *s1 = new Security("Malwarebytes Anti-Ransomware","Malwarebytes Corporation",18,listUsers,7000,"Ransomware");
-    Security *s2 = new Security("Ad-Aware","Lavasoft",18,listUsers,0,"Spyware");
-    Security *s3 = new Security("Symantec Endpoint Protection","Broadcom Inc",18,listUsers,23700,"Botnets");
-    Security *s4 = new Security("Sophos Intercept X","Sophos Group plc",18,listUsers,122400,"Rootkits");
-    Security *s5 = new Security("Norton 360","Norton",18,listUsers,16000,"Computer Worms");
-    Security *s6 = new Security("Kaspersky Total Security","Kaspersky Lab",18,listUsers,29610,"Trojans");
-
-    listSecurities.push(s1);listSecurities.push(s2);listSecurities.push(s3);listSecurities.push(s4);listSecurities.push(s5);listSecurities.push(s6);
-
-    //POBLAR SOFTWARE DE SOCIAL*************
-
-    //lista para amigos mayores a 18 años
-    stack<NodeUser*> listFriends18;
-    listFriends18.push(u15);listFriends18.push(u14);
-    Social *soc1 = new Social("Discord","Electron",18,listUsers,0,listFriends18);
-
-    //lista para amigos menor a 18 años
-    stack<NodeUser*> listFriends;
-    listFriends.push(u1);listFriends.push(u2);
-    Social *soc2 = new Social("WhatsApp","Facebook Inc",16,listUsers,0,listFriends);
+listfriends18
+listfriends
