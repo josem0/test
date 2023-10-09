@@ -33,10 +33,12 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
 * Se debe poder acceder al “log” de cada software (se necesita un nivel de seguridad mínimo para poder acceder al log) para conocer el uso que le están dando los usuarios.
 
 ### Consideraciones Extras
-
+* Se deberá tener 3 tipos de usuarios, con sus respectivas restricciones
 <div align="center">
     <img src="imagenes/consideraciones1.png" alt="Logo" width="800" height="300">
 </div>
+
+* Se contará con 6 tipos de Software
 <div align="center">
     <img src="imagenes/consideraciones2.png" alt="Logo" width="800" height="300">
 </div>
