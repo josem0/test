@@ -59,9 +59,7 @@ Use the `BLANK_README.md` to get started.
 # Código
 A continuación se detallan las funcionas usadas en el taller, incluyendo la creación de objetos.
 
-### setListUsers
-
-Se utiliza listas circulares para los 3 tipos de usuarios, a su vez se están creando sus respectivos objetos:
+## setListUsers
 
 ### Niños:
 * niño1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "17"; correo: ""; log: "false"}.
@@ -87,27 +85,27 @@ Se utiliza listas circulares para los 3 tipos de usuarios, a su vez se están cr
     <img src="imagenes/setListUsers.png" alt="Logo" width="800" height="350">
 </div>
 
-### setListGames
+## setListGames
 <div align="center">
     <img src="imagenes/setListGames.png" alt="Logo" width="800" height="400">
 </div>
 
-### setListOfficeSuites
+## setListOfficeSuites
 <div align="center">
     <img src="imagenes/setListOfficeSuites.png" alt="Logo" width="800" height="300">
 </div>
    
-### setListProductions
+## setListProductions
 <div align="center">
     <img src="imagenes/setListProductions.png" alt="Logo" width="800" height="300">
 </div>
     
-### setListBrowsers
+## setListBrowsers
 <div align="center">
     <img src="imagenes/setListBrowsers.png" alt="Logo" width="800" height="300">
 </div>
     
-### setListSecurities
+## setListSecurities
 <div align="center">
     <img src="imagenes/setListSecurities.png" alt="Logo" width="800" height="300">
 </div>
