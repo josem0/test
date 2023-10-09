@@ -8,6 +8,7 @@
   </p>
 </div>
 s
+=
 
 admin1: { usuario:"Juan"; contraseña:"1234"; edad:"29"; correo:"juanJ@gmail.com"; log:"false"}.
 
