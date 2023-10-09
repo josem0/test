@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<h2>Objetos Creados</h2>
+## Objetos Creados
 
 admin1: { usuario:"Juan"; contraseña:"1234"; edad:"29"; correo:"juanJ@gmail.com"; log:"false"}.
 
