@@ -22,16 +22,16 @@ Usuarios niños:
 * niño4: {usuario:"Maria"; contraseña:"maria4321"; edad:"14"; correo:""; log:"false"}.
 
 Usuarios Normales:
-*usuarioNormal1: {usuario:"Carlos"; contraseña:"carlos1234"; edad:"18"; correo:"carlosR@gmail.com"; log:"false"}.
-*usuarioNormal2: {usuario:"Maria"; contraseña:"maria5678"; edad:"25"; correo:"mariaS@gmail.com"; log:"false"}.
-*usuarioNormal3: {usuario:"Pablo"; contraseña:"pablo999"; edad:"30"; correo:"pabloP@gmail.com"; log:"false"}.
-*usuarioNormal4: {usuario:"Laura"; contraseña:"laura2021"; edad:"22"; correo:"lauraM@gmail.com"; log:"false"}.
-*usuarioNormal5: {usuario:"Pedro"; contraseña:"pedro456"; edad:"27"; correo:"pedroG@gmail.com"; log:"false"}.
-*usuarioNormal6: {usuario:"Sofia"; contraseña:"sofia1010"; edad:"28"; correo:"sofiaB@gmail.com"; log:"false"}.
-*usuarioNormal7: {usuario:"Ana"; contraseña:"ana789"; edad:"35"; correo:"anaL@gmail.com"; log:"false"}.
-*usuarioNormal8: {usuario:"Luis"; contraseña:"luis2022"; edad:"19"; correo:"luisS@gmail.com"; log:"false"}.
-*usuarioNormal9: {usuario:"Diego"; contraseña:"diego777"; edad:"24"; correo:"diegoC@gmail.com"; log:"false"}.
-*usuarioNormal10: {usuario:"Valeria"; contraseña:"valeria444"; edad:"31"; correo:"valeriaR@gmail.com"; log:"false"}.
+* usuarioNormal1: {usuario:"Carlos"; contraseña:"carlos1234"; edad:"18"; correo:"carlosR@gmail.com"; log:"false"}.
+* usuarioNormal2: {usuario:"Maria"; contraseña:"maria5678"; edad:"25"; correo:"mariaS@gmail.com"; log:"false"}.
+* usuarioNormal3: {usuario:"Pablo"; contraseña:"pablo999"; edad:"30"; correo:"pabloP@gmail.com"; log:"false"}.
+* usuarioNormal4: {usuario:"Laura"; contraseña:"laura2021"; edad:"22"; correo:"lauraM@gmail.com"; log:"false"}.
+* usuarioNormal5: {usuario:"Pedro"; contraseña:"pedro456"; edad:"27"; correo:"pedroG@gmail.com"; log:"false"}.
+* usuarioNormal6: {usuario:"Sofia"; contraseña:"sofia1010"; edad:"28"; correo:"sofiaB@gmail.com"; log:"false"}.
+* usuarioNormal7: {usuario:"Ana"; contraseña:"ana789"; edad:"35"; correo:"anaL@gmail.com"; log:"false"}.
+* usuarioNormal8: {usuario:"Luis"; contraseña:"luis2022"; edad:"19"; correo:"luisS@gmail.com"; log:"false"}.
+* usuarioNormal9: {usuario:"Diego"; contraseña:"diego777"; edad:"24"; correo:"diegoC@gmail.com"; log:"false"}.
+* usuarioNormal10: {usuario:"Valeria"; contraseña:"valeria444"; edad:"31"; correo:"valeriaR@gmail.com"; log:"false"}.
 
 juego1: {nombre:"The Legend of Zelda: Breath of the Wild"; developer:"Nintendo"; clasificacionedad:"15"; listausuarios:""; precio:"58990"; tipo:"Adventure"}.
 juego2: {nombre:"The Legend of Zelda: Tears of the Kingdom"; developer:"Nintendo"; clasificacionedad:"15"; listausuarios:""; precio:"68790"; tipo:"Adventure"}.
