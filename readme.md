@@ -20,11 +20,8 @@
     </li>
     <li>
         <a href="#codigo">Código</a>
-    </li>
-    <li>
-        <a href="#objetos-creados">Objetos Creados</a>
         <ul>
-          <li><a href="#usuarios">Usuarios</a></li>
+          <li><a href="#set-list-users">Usuarios</a></li>
           <li><a href="#software">Software</a></li>
       </ul>
     </li>
@@ -112,31 +109,6 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
 
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
     
-# Objetos Creados
-
-A continuación se detallan todos los objetos creados en el main durante la ejecución del programa. 
-## Usuarios
-### Administradores:
-* admin1: {usuario: "Juan"; contraseña: "1234"; edad: "29"; correo: "juanJ@gmail.com"; log: "false"}.
-
-### Niños:
-* niño1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "17"; correo: ""; log: "false"}.
-* niño2: {usuario: "Ana"; contraseña: "ana5678"; edad: "16"; correo: ""; log: "false"}.
-* niño3: {usuario: "Pedro"; contraseña: "pedro9876"; edad: "15"; correo: ""; log: "false"}.
-* niño4: {usuario: "Maria"; contraseña: "maria4321"; edad: "14"; correo: ""; log: "false"}.
-
-### Normales:
-* usuarioNormal1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "18"; correo: "carlosR@gmail.com"; log: "false"}.
-* usuarioNormal2: {usuario: "Maria"; contraseña: "maria5678"; edad: "25"; correo: "mariaS@gmail.com"; log: "false"}.
-* usuarioNormal3: {usuario: "Pablo"; contraseña: "pablo999"; edad: "30"; correo: "pabloP@gmail.com"; log: "false"}.
-* usuarioNormal4: {usuario: "Laura"; contraseña: "laura2021"; edad: "22"; correo: "lauraM@gmail.com"; log: "false"}.
-* usuarioNormal5: {usuario: "Pedro"; contraseña: "pedro456"; edad: "27"; correo: "pedroG@gmail.com"; log: "false"}.
-* usuarioNormal6: {usuario: "Sofia"; contraseña: "sofia1010"; edad: "28"; correo: "sofiaB@gmail.com"; log: "false"}.
-* usuarioNormal7: {usuario: "Ana"; contraseña: "ana789"; edad: "35"; correo: "anaL@gmail.com"; log: "false"}.
-* usuarioNormal8: {usuario: "Luis"; contraseña: "luis2022"; edad: "19"; correo: "luisS@gmail.com"; log: "false"}.
-* usuarioNormal9: {usuario: "Diego"; contraseña: "diego777"; edad: "24"; correo: "diegoC@gmail.com"; log: "false"}.
-* usuarioNormal10: {usuario: "Valeria"; contraseña: "valeria444"; edad: "31"; correo: "valeriaR@gmail.com"; log: "false"}.
-
 ## Software
 ### Software de tipo Juego
 * juego1: {nombre: "The Legend of Zelda: Breath of the Wild"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "58990"; tipo: "Adventure"}.
