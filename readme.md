@@ -15,7 +15,7 @@
     <li>
         <a href="#resumen-del-taller">Resumen del Taller</a>
       <ul>
-          <li><a href="#subsegmento">Subsegmento</a></li>
+          <li><a href="#consideraciones-extras">Consideraciones Extras</a></li>
       </ul>
     </li>
     <li><a href="#objetos-creados">Objetos Creados</a></li>
@@ -32,6 +32,7 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
 * Los softwares tienen restricciones de edad y niveles de seguridad para acceder a ellos.
 * Se debe poder acceder al “log” de cada software (se necesita un nivel de seguridad mínimo para poder acceder al log) para conocer el uso que le están dando los usuarios.
 
+### Consideraciones Extras
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
