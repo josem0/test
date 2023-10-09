@@ -19,6 +19,9 @@
       </ul>
     </li>
     <li>
+        <a href="#codigo">Código</a>
+    </li>
+    <li>
         <a href="#objetos-creados">Objetos Creados</a>
         <ul>
           <li><a href="#usuarios">Usuarios</a></li>
@@ -52,6 +55,8 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
+
+# Código
 
 # Objetos Creados
 
