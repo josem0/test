@@ -59,6 +59,9 @@ Use the `BLANK_README.md` to get started.
 # Código
 A continuación se detallan las funcionas usadas en el taller.
 ### setListUsers
+<div align="center">
+    <img src="imagenes/setListUsers.png" alt="Logo" width="800" height="300">
+</div>
 
 ### setListGames
 <div align="center">
