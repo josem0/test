@@ -21,8 +21,13 @@
     <li>
         <a href="#codigo">Código</a>
         <ul>
-          <li><a href="#set-list-users">Usuarios</a></li>
-          <li><a href="#software">Software</a></li>
+          <li><a href="#set-list-users">setListUsers</a></li>
+          <li><a href="#set-list-users">setListGames</a></li>
+          <li><a href="#set-list-users">setListOfficeSuites</a></li>
+          <li><a href="#set-list-users">setListProductions</a></li>
+          <li><a href="#set-list-users">setListBrowsers</a></li>
+          <li><a href="#set-list-users">setListUsers</a></li>
+          <li><a href="#set-list-users">setListUsers</a></li>
       </ul>
     </li>
   </ol>
@@ -79,34 +84,38 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
 * usuarioNormal9: {usuario: "Diego"; contraseña: "diego777"; edad: "24"; correo: "diegoC@gmail.com"; log: "false"}.
 * usuarioNormal10: {usuario: "Valeria"; contraseña: "valeria444"; edad: "31"; correo: "valeriaR@gmail.com"; log: "false"}.
 <div align="center">
-    <img src="imagenes/setListUsers.png" alt="Logo" width="800" height="350">
+    <img src="imagenes/setListUsers.png" alt="Usuarios" width="800" height="350">
 </div>
 
 ## setListGames
 <div align="center">
-    <img src="imagenes/setListGames.png" alt="Logo" width="800" height="400">
+    <img src="imagenes/setListGames.png" alt="Juegos" width="800" height="400">
 </div>
 
 ## setListOfficeSuites
 <div align="center">
-    <img src="imagenes/setListOfficeSuites.png" alt="Logo" width="800" height="300">
+    <img src="imagenes/setListOfficeSuites.png" alt="Ofimatica" width="800" height="300">
 </div>
    
 ## setListProductions
 <div align="center">
-    <img src="imagenes/setListProductions.png" alt="Logo" width="800" height="300">
+    <img src="imagenes/setListProductions.png" alt="Produccion" width="800" height="300">
 </div>
     
 ## setListBrowsers
 <div align="center">
-    <img src="imagenes/setListBrowsers.png" alt="Logo" width="800" height="300">
+    <img src="imagenes/setListBrowsers.png" alt="Navegador" width="800" height="300">
 </div>
     
 ## setListSecurities
 <div align="center">
-    <img src="imagenes/setListSecurities.png" alt="Logo" width="800" height="300">
+    <img src="imagenes/setListSecurities.png" alt="Seguridad" width="800" height="300">
 </div>
 
+## setListSocial
+<div align="center">
+    <img src="imagenes/setListSocial.png" alt="Social" width="800" height="300">
+</div>
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
     
 ## Software
