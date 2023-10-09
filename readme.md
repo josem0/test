@@ -18,7 +18,13 @@
           <li><a href="#consideraciones-extras">Consideraciones Extras</a></li>
       </ul>
     </li>
-    <li><a href="#objetos-creados">Objetos Creados</a></li>
+    <li>
+        <a href="#objetos-creados">Objetos Creados</a>
+        <ul>
+          <li><a href="#usuarios">Usuarios</a></li>
+          <li><a href="#software">Software</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 
