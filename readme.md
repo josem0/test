@@ -10,6 +10,8 @@
 
 ## Objetos Creados
 
+A continuación se detallan todos los objetos creados en el main durante la ejecución del programa 
+
 admin1: { usuario:"Juan"; contraseña:"1234"; edad:"29"; correo:"juanJ@gmail.com"; log:"false"}.
 
 niño1: {usuario:"Carlos"; contraseña:"carlos1234"; edad:"17"; correo:""; log:"false"}.
