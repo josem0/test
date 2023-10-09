@@ -33,12 +33,14 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
 * Se debe poder acceder al “log” de cada software (se necesita un nivel de seguridad mínimo para poder acceder al log) para conocer el uso que le están dando los usuarios.
 
 ### Consideraciones Extras
+
 <div align="center">
     <img src="imagenes/consideraciones1.png" alt="Logo" width="800" height="300">
 </div>
 <div align="center">
     <img src="imagenes/consideraciones2.png" alt="Logo" width="800" height="300">
 </div>
+
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
