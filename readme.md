@@ -6,7 +6,7 @@ admin1: { usuario:"Juan"; contraseña:"1234"; edad:"29"; correo:"juanJ@gmail.com
 
 niño1: {usuario:"Carlos"; contraseña:"carlos1234"; edad:"17"; correo:""; log:"false"}.
 
-niño2: {usuario:"Ana"; contraseña:"ana5678"; edad:"16"; correo:""; log:"false"}.\r
+niño2: {usuario:"Ana"; contraseña:"ana5678"; edad:"16"; correo:""; log:"false"}.\n
 niño3: {usuario:"Pedro"; contraseña:"pedro9876"; edad:"15"; correo:""; log:"false"}.
 niño4: {usuario:"Maria"; contraseña:"maria4321"; edad:"14"; correo:""; log:"false"}.
 
