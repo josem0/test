@@ -60,12 +60,12 @@ Use the `BLANK_README.md` to get started.
 A continuación se detallan las funcionas usadas en el taller.
 ### setListUsers
 <div align="center">
-    <img src="imagenes/setListUsers.png" alt="Logo" width="800" height="300">
+    <img src="imagenes/setListUsers.png" alt="Logo" width="800" height="350">
 </div>
 
 ### setListGames
 <div align="center">
-    <img src="imagenes/setListGames.png" alt="Logo" width="800" height="300">
+    <img src="imagenes/setListGames.png" alt="Logo" width="800" height="400">
 </div>
 
 ### setListOfficeSuites
