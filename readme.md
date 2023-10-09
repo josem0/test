@@ -114,7 +114,7 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
 
 ## setListSocial
 <div align="center">
-    <img src="imagenes/setListSocial.png" alt="Social" width="800" height="300">
+    <img src="imagenes/setListSocials.png" alt="Social" width="800" height="300">
 </div>
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
     
