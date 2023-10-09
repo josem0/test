@@ -80,7 +80,7 @@ A continuación se detallan todos los objetos creados en el main durante la ejec
                             "https://www.youtube.com/watch?v=-wPg1tNEWmo",
                             "https://youtu.be/mYEA5A0Bjyo?si=GHS8xb3t6ZwznDTd",
                             "https://www.youtube.com/watch?v=fuAE3U1NvOs",
-                            "https://www.youtube.com/watch?v=ZkbDwgH1lQE""a}.
+                            "https://www.youtube.com/watch?v=ZkbDwgH1lQE","a"}.
 * navegador1: {nombre: "Opera GX"; developer: "Opera Software"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial1"}.
 * historial2: {"https://www.artstation.com/artwork/AlaEBq",
                             "https://www.artstation.com/artwork/w0PNrg",
