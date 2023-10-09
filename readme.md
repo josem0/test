@@ -34,41 +34,41 @@ Usuarios Normales:
 * usuarioNormal10: {usuario: "Valeria"; contraseña: "valeria444"; edad: "31"; correo: "valeriaR@gmail.com"; log: "false"}.
 
 Software de tipo Juego
-* juego1: {nombre: "The Legend of Zelda: Breath of the Wild"; developer: "Nintendo"; clasificacionedad: "15"; listausuarios: ""; precio: "58990"; tipo: "Adventure"}.
-* juego2: {nombre: "The Legend of Zelda: Tears of the Kingdom"; developer: "Nintendo"; clasificacionedad: "15"; listausuarios: ""; precio: "68790"; tipo: "Adventure"}.
-* juego3: {nombre: "Pokemon Violet"; developer: "The Pokemon Company"; clasificacionedad: "15"; listausuarios: ""; precio: "58990"; tipo: "Role-playing"}.
-* juego4: {nombre: "Pokemon Scarlet"; developer: "The Pokemon Company"; clasificacionedad: "15"; listausuarios: ""; precio: "58990"; tipo: "Role-playing"}.
-* juego5: {nombre: "VALORANT"; developer: "Riot Games"; clasificacionedad: "13"; listausuarios: ""; precio: "0"; tipo: "Tactical Shooter"}.
-* juego6: {nombre: "Counter-Strike 2"; developer: "Valve Corporation"; clasificacionedad: "13"; listausuarios: ""; precio: "0"; tipo: "Tactical Shooter"}.
-* juego7: {nombre: "Pokemon Unite"; developer: "Nintendo"; clasificacionedad: "15"; listausuarios: ""; precio: "0"; tipo: "MOBA"}.
-* juego8: {nombre: "League of Legends"; developer: "Riot Games"; clasificacionedad: "13"; listausuarios: ""; precio: "0"; tipo: "MOBA"}.
-* juego9: {nombre: "Fornite"; developer: "Epic Games"; clasificacionedad: "13"; listausuarios: ""; precio: "0"; tipo: "FPS"}.
-* juego10: {nombre: "Apex Legends"; developer: "Respawn Entertainment"; clasificacionedad: "16"; listausuarios: ""; precio: "0"; tipo: "FPS"}.
-* juego11: {nombre: "FINAL FANTASY XIV"; developer: "Square Enix"; clasificacionedad: "13"; listausuarios: ""; precio: "22990"; tipo: "MMORPG"}.
-* juego12: {nombre: "World of Warcraft"; developer: "Blizzard Entertainment"; clasificacionedad: "13"; listausuarios: ""; precio: "15600"; tipo: "MMORPG"}.
-* juego13: {nombre: "Ori and the Will of the Wisps"; developer: "Moon Studios"; clasificacionedad: "7"; listausuarios: ""; precio: "24990"; tipo: "Puzzle"}.
-* juego14: {nombre: "Hollow Knight"; developer: "Team Cherry"; clasificacionedad: "7"; listausuarios: ""; precio: "8300"; tipo: "Metroidvania"}.
-* juego15: {nombre: "ENDER LILIES: Quietus of the Knights"; developer: "Live Wire"; clasificacionedad: "12"; listausuarios: ""; precio: "9500"; tipo: "Metroidvania"}.
+* juego1: {nombre: "The Legend of Zelda: Breath of the Wild"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "58990"; tipo: "Adventure"}.
+* juego2: {nombre: "The Legend of Zelda: Tears of the Kingdom"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "68790"; tipo: "Adventure"}.
+* juego3: {nombre: "Pokemon Violet"; developer: "The Pokemon Company"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "58990"; tipo: "Role-playing"}.
+* juego4: {nombre: "Pokemon Scarlet"; developer: "The Pokemon Company"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "58990"; tipo: "Role-playing"}.
+* juego5: {nombre: "VALORANT"; developer: "Riot Games"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Tactical Shooter"}.
+* juego6: {nombre: "Counter-Strike 2"; developer: "Valve Corporation"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Tactical Shooter"}.
+* juego7: {nombre: "Pokemon Unite"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "0"; tipo: "MOBA"}.
+* juego8: {nombre: "League of Legends"; developer: "Riot Games"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; tipo: "MOBA"}.
+* juego9: {nombre: "Fornite"; developer: "Epic Games"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; tipo: "FPS"}.
+* juego10: {nombre: "Apex Legends"; developer: "Respawn Entertainment"; clasificacionEdad: "16"; listaUsuarios: "listUsers"; precio: "0"; tipo: "FPS"}.
+* juego11: {nombre: "FINAL FANTASY XIV"; developer: "Square Enix"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "22990"; tipo: "MMORPG"}.
+* juego12: {nombre: "World of Warcraft"; developer: "Blizzard Entertainment"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "15600"; tipo: "MMORPG"}.
+* juego13: {nombre: "Ori and the Will of the Wisps"; developer: "Moon Studios"; clasificacionEdad: "7"; listaUsuarios: "listUsers"; precio: "24990"; tipo: "Puzzle"}.
+* juego14: {nombre: "Hollow Knight"; developer: "Team Cherry"; clasificacionEdad: "7"; listaUsuarios: "listUsers"; precio: "8300"; tipo: "Metroidvania"}.
+* juego15: {nombre: "ENDER LILIES: Quietus of the Knights"; developer: "Live Wire"; clasificacionEdad: "12"; listaUsuarios: "listUsers"; precio: "9500"; tipo: "Metroidvania"}.
 
 Software de tipo Juego 18+
-* juego16: {nombre: "God of War: Ragnarok"; developer: "SIE Santa Monica Studio"; clasificacionedad: "18"; listausuarios: ""; precio: "64990"; tipo: "Action"}.
-* juego17: {nombre: "Catherine Full Body"; developer: "Atlus"; clasificacionedad: "18"; listausuarios: ""; precio: "14500"; tipo: "Puzzle"}.
-* juego18: {nombre: "Shadow Warrior"; developer: "Flying Wild Hog"; clasificacionedad: "18"; listausuarios: ""; precio: "15500"; tipo: "Action"}.
-* juego19: {nombre: "Grnad theft Auto V"; developer: "Rockstar Games"; clasificacionedad: "18"; listausuarios: ""; precio: "27192"; tipo: "Open World"}.
-* juego20: {nombre: "The Witcher 3: Wild Hunt"; developer: "CD PROJEKT RED"; clasificacionedad: "18"; listausuarios: ""; precio: "18300"; tipo: "Open World"}.
+* juego16: {nombre: "God of War: Ragnarok"; developer: "SIE Santa Monica Studio"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "64990"; tipo: "Action"}.
+* juego17: {nombre: "Catherine Full Body"; developer: "Atlus"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "14500"; tipo: "Puzzle"}.
+* juego18: {nombre: "Shadow Warrior"; developer: "Flying Wild Hog"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "15500"; tipo: "Action"}.
+* juego19: {nombre: "Grnad theft Auto V"; developer: "Rockstar Games"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "27192"; tipo: "Open World"}.
+* juego20: {nombre: "The Witcher 3: Wild Hunt"; developer: "CD PROJEKT RED"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "18300"; tipo: "Open World"}.
 
 Software de tipo Ofimatica
-* ofimatica1: {nombre: "Microsoft Word"; developer: "Microsoft"; clasificacionedad: "13"; listausuarios: ""; precio: "139990"; cantidadarchivos: "1000"}.
-* ofimatica2: {nombre: "Microsoft Excel"; developer: "Microsoft"; clasificacionedad: "13"; listausuarios: ""; precio: "139990"; cantidadarchivos: "200"}.
-* ofimatica3: {nombre: "Microsoft PowerPoin"; developer: "Microsoft"; clasificacionedad: "13"; listausuarios: ""; precio: "139990"; cantidadarchivos: "700"}.
-* ofimatica4: {nombre: "Microsoft Outlook"; developer: "Microsoft"; clasificacionedad: "13"; listausuarios: ""; precio: "139990"; cantidadarchivos: "2000"}.
-* ofimatica5: {nombre: "Microsoft OneNote"; developer: "Microsoft"; clasificacionedad: "13"; listausuarios: ""; precio: "139990"; cantidadarchivos: "100"}.
+* ofimatica1: {nombre: "Microsoft Word"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "1000"}.
+* ofimatica2: {nombre: "Microsoft Excel"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "200"}.
+* ofimatica3: {nombre: "Microsoft PowerPoin"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "700"}.
+* ofimatica4: {nombre: "Microsoft Outlook"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "2000"}.
+* ofimatica5: {nombre: "Microsoft OneNote"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "100"}.
 
 Software de tipo Produccion
-* produccion1: {nombre: "Audacity"; developer: "The Audacity Team"; clasificacionedad: "18"; listausuarios: ""; precio: "0"; tipo: "Audio"}.
-* produccion2: {nombre: "Vegas Pro"; developer: "Sony Creative Software"; clasificacionedad: "18"; listausuarios: ""; precio: "54000"; tipo: "Video"}.
-* produccion3: {nombre: "OBS Studio"; developer: ""; clasificacionedad: "18"; listausuarios: ""; precio: "0"; tipo: "Streaming"}.
-* produccion4: {nombre: "Adobe Photoshop"; developer: ""; clasificacionedad: "128"; listausuarios: ""; precio: "163200"; tipo: "Image"}.
+* produccion1: {nombre: "Audacity"; developer: "The Audacity Team"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Audio"}.
+* produccion2: {nombre: "Vegas Pro"; developer: "Sony Creative Software"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "54000"; tipo: "Video"}.
+* produccion3: {nombre: "OBS Studio"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Streaming"}.
+* produccion4: {nombre: "Adobe Photoshop"; developer: ""; clasificacionEdad: "128"; listaUsuarios: "listUsers"; precio: "163200"; tipo: "Image"}.
 
 Software de tipo Navegador
 * historial1: {"https://www.op.gg/summoners/kr/hide%20on%20bush",
@@ -81,7 +81,7 @@ Software de tipo Navegador
                             "https://youtu.be/mYEA5A0Bjyo?si=GHS8xb3t6ZwznDTd",
                             "https://www.youtube.com/watch?v=fuAE3U1NvOs",
                             "https://www.youtube.com/watch?v=ZkbDwgH1lQE"}.
-* navegador1: {nombre: "Opera GX"; developer: "Opera Software"; clasificacionedad: "13"; listausuarios: ""; precio: "0"; historial: "historial1"}.
+* navegador1: {nombre: "Opera GX"; developer: "Opera Software"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial1"}.
 * historial2: {"https://www.artstation.com/artwork/AlaEBq",
                             "https://www.artstation.com/artwork/w0PNrg",
                             "https://www.artstation.com/artwork/Xg9xWl",
@@ -92,19 +92,16 @@ Software de tipo Navegador
                             "https://www.artstation.com/artwork/EvK1wq",
                             "https://www.artstation.com/artwork/r9JNdG",
                             "https://www.artstation.com/artwork/6bNqdO"}.
-* navegador2: {nombre: "Microsoft Edge"; developer: "Microsoft Corporation"; clasificacionedad: "13"; listausuarios: ""; precio: "0"; historial: "historial2"}.
+* navegador2: {nombre: "Microsoft Edge"; developer: "Microsoft Corporation"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial2"}.
 
 Software de tipo Seguridad
-* seguridad1: {nombre: "Malwarebytes Anti-Ransomware"; developer: "Malwarebytes Corporation"; clasificacionedad: "18"; listausuarios: ""; precio: "7000"; tipo: "Ransomware"}.
-* seguridad2: {nombre: "Ad-Aware"; developer: "Lavasoft"; clasificacionedad: "18"; listausuarios: ""; precio: "0"; tipo: "Spyware"}.
-* seguridad3: {nombre: "Symantec Endpoint Protection"; developer: "Broadcom Inc"; clasificacionedad: "18"; listausuarios: ""; precio: "23700"; tipo: "Botnets"}.
-* seguridad4: {nombre: "Sophos Intercept X"; developer: "Sophos Group plc"; clasificacionedad:18""; listausuarios: ""; precio: "122400"; tipo: "Rootkits"}.
-* seguridad5: {nombre: "Norton 360"; developer: "Norton"; clasificacionedad: "18"; listausuarios: ""; precio: "16000"; tipo: "Computer Worms"}.
-* seguridad6: {nombre: "Kaspersky Total Security"; developer: "Kaspersky Lab"; clasificacionedad: "18"; listausuarios: ""; precio: "29610"; tipo: "Trojans"}.
+* seguridad1: {nombre: "Malwarebytes Anti-Ransomware"; developer: "Malwarebytes Corporation"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "7000"; tipo: "Ransomware"}.
+* seguridad2: {nombre: "Ad-Aware"; developer: "Lavasoft"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Spyware"}.
+* seguridad3: {nombre: "Symantec Endpoint Protection"; developer: "Broadcom Inc"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "23700"; tipo: "Botnets"}.
+* seguridad4: {nombre: "Sophos Intercept X"; developer: "Sophos Group plc"; clasificacionEdad:18""; listaUsuarios: "listUsers"; precio: "122400"; tipo: "Rootkits"}.
+* seguridad5: {nombre: "Norton 360"; developer: "Norton"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "16000"; tipo: "Computer Worms"}.
+* seguridad6: {nombre: "Kaspersky Total Security"; developer: "Kaspersky Lab"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "29610"; tipo: "Trojans"}.
 
 Software de tipo Social
-* social1: {nombre: "Discord"; developer: "Electron"; clasificacionedad: "18"; listausuarios: ""; precio: "0"; usuarios: ""}.
-* social2: {nombre: "WhatsApp"; developer"Facebook Inc"; clasificacionedad: "16"; listausuarios: ""; precio: "0"; usuarios: ""}.
-
-listfriends18
-listfriends
+* social1: {nombre: "Discord"; developer: "Electron"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends18"}.
+* social2: {nombre: "WhatsApp"; developer"Facebook Inc"; clasificacionEdad: "16"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends"}.
