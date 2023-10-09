@@ -10,18 +10,18 @@
 
 # Objetos Creados
 
-A continuación se detallan todos los objetos creados en el main durante la ejecución del programa, se encuentran ordenados desde tipo de usuarios hasta tipo de software. 
-
+A continuación se detallan todos los objetos creados en el main durante la ejecución del programa. 
+## Usuarios
 ### Administradores:
 * admin1: {usuario: "Juan"; contraseña: "1234"; edad: "29"; correo: "juanJ@gmail.com"; log: "false"}.
 
-### Usuarios niños:
+### Niños:
 * niño1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "17"; correo: ""; log: "false"}.
 * niño2: {usuario: "Ana"; contraseña: "ana5678"; edad: "16"; correo: ""; log: "false"}.
 * niño3: {usuario: "Pedro"; contraseña: "pedro9876"; edad: "15"; correo: ""; log: "false"}.
 * niño4: {usuario: "Maria"; contraseña: "maria4321"; edad: "14"; correo: ""; log: "false"}.
 
-### Usuarios Normales:
+### Normales:
 * usuarioNormal1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "18"; correo: "carlosR@gmail.com"; log: "false"}.
 * usuarioNormal2: {usuario: "Maria"; contraseña: "maria5678"; edad: "25"; correo: "mariaS@gmail.com"; log: "false"}.
 * usuarioNormal3: {usuario: "Pablo"; contraseña: "pablo999"; edad: "30"; correo: "pabloP@gmail.com"; log: "false"}.
@@ -33,6 +33,7 @@ A continuación se detallan todos los objetos creados en el main durante la ejec
 * usuarioNormal9: {usuario: "Diego"; contraseña: "diego777"; edad: "24"; correo: "diegoC@gmail.com"; log: "false"}.
 * usuarioNormal10: {usuario: "Valeria"; contraseña: "valeria444"; edad: "31"; correo: "valeriaR@gmail.com"; log: "false"}.
 
+##Software
 ### Software de tipo Juego
 * juego1: {nombre: "The Legend of Zelda: Breath of the Wild"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "58990"; tipo: "Adventure"}.
 * juego2: {nombre: "The Legend of Zelda: Tears of the Kingdom"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "68790"; tipo: "Adventure"}.
