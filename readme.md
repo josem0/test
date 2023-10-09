@@ -61,15 +61,20 @@ A continuación se detallan las funcionas usadas en el taller.
 ### setListUsers
 
 ### setListGames
-
+<div align="center">
+    <img src="imagenes/setListGames.png" alt="Logo" width="800" height="300">
 ### setListOfficeSuites
-
+<div align="center">
+    <img src="imagenes/setListOfficeSuites.png" alt="Logo" width="800" height="300">
 ### setListProductions
-
+<div align="center">
+    <img src="imagenes/setListProductions.png" alt="Logo" width="800" height="300">
 ### setListBrowsers
-
+<div align="center">
+    <img src="imagenes/setListBrowsers.png" alt="Logo" width="800" height="300">
 ### setListSecurities
-
+<div align="center">
+    <img src="imagenes/setListSecurities.png" alt="Logo" width="800" height="300">
 # Objetos Creados
 
 A continuación se detallan todos los objetos creados en el main durante la ejecución del programa. 
