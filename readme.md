@@ -151,3 +151,4 @@ A continuación se detallan todos los objetos creados en el main durante la ejec
 ### Software de tipo Social
 * social1: {nombre: "Discord"; developer: "Electron"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends18"}.
 * social2: {nombre: "WhatsApp"; developer"Facebook Inc"; clasificacionEdad: "16"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends"}.
+<p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
