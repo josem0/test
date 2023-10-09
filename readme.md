@@ -34,7 +34,7 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
 
 ### Consideraciones Extras
 <div align="center">
-    <img src="imagenes/consideraciones1.png" alt="Logo" width="400" height="200">
+    <img src="imagenes/consideraciones1.png" alt="Logo" width="800" height="300">
 </div>
 <div align="center">
     <img src="imagenes/consideraciones2.png" alt="Logo" width="180" height="80">
