@@ -2,7 +2,20 @@
 <br />
 <div align="center">
     <img src="logo.png" alt="Logo" width="180" height="80">
-
+    
+  <p align="center">
+    Estructura de Datos Taller 1 - Anais Rodriguez
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</div>
 s
 
 admin1: { usuario:"Juan"; contraseña:"1234"; edad:"29"; correo:"juanJ@gmail.com"; log:"false"}.
