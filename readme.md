@@ -63,22 +63,27 @@ A continuación se detallan las funcionas usadas en el taller.
 ### setListGames
 <div align="center">
     <img src="imagenes/setListGames.png" alt="Logo" width="800" height="300">
-    
+</div>
+
 ### setListOfficeSuites
 <div align="center">
     <img src="imagenes/setListOfficeSuites.png" alt="Logo" width="800" height="300">
-    
+</div>
+   
 ### setListProductions
 <div align="center">
     <img src="imagenes/setListProductions.png" alt="Logo" width="800" height="300">
+</div>
     
 ### setListBrowsers
 <div align="center">
     <img src="imagenes/setListBrowsers.png" alt="Logo" width="800" height="300">
+</div>
     
 ### setListSecurities
 <div align="center">
     <img src="imagenes/setListSecurities.png" alt="Logo" width="800" height="300">
+</div>
 
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
     
