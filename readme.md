@@ -2,7 +2,7 @@
 <br />
 <a name="arriba"></a>
 <div align="center">
-    <img src="logo.png" alt="Logo" width="180" height="80">
+    <img src="imagenes/logo.png" alt="Logo" width="180" height="80">
  <!-- TITULO -->   
   <p align="center">
     Estructura de Datos Taller 1 - Anais Rodriguez
@@ -33,8 +33,12 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
 * Se debe poder acceder al “log” de cada software (se necesita un nivel de seguridad mínimo para poder acceder al log) para conocer el uso que le están dando los usuarios.
 
 ### Consideraciones Extras
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
+<div align="center">
+    <img src="imagenes/consideraciones1.png" alt="Logo" width="180" height="80">
+</div>
+<div align="center">
+    <img src="imagenes/consideraciones2.png" alt="Logo" width="180" height="80">
+</div>
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
