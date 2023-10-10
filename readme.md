@@ -64,7 +64,7 @@ Use the `BLANK_README.md` to get started.
 # Librerías
 Se están utilizando un total de 13 librerías, las cuales se muestran a continuación.
 <div align="center">
-    <img src="imagenes/Library.png" alt="Library" width="800" height="300">
+    <img src="imagenes/Library.png" alt="Library" width="400" height="200">
 </div>
 
 # Código
