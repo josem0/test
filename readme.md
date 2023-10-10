@@ -73,10 +73,10 @@ A continuación se detallan las funcionas usadas en la creación del taller.
 Función de tipo `CircularListUser`, utilizada para creación de objetos y posteriormente la asignación de cada usuario en una lista circular. 
 
 ### Niños:
-* niño1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "17"; correo: ""; log: "false"}.
-* niño2: {usuario: "Ana"; contraseña: "ana5678"; edad: "16"; correo: ""; log: "false"}.
-* niño3: {usuario: "Pedro"; contraseña: "pedro9876"; edad: "15"; correo: ""; log: "false"}.
-* niño4: {usuario: "Maria"; contraseña: "maria4321"; edad: "14"; correo: ""; log: "false"}.
+* niño1: {usuario: "Karim"; contraseña: "karim1234"; edad: "17"; correo: ""; log: "false"}.
+* niño2: {usuario: "Amina"; contraseña: "amina5678"; edad: "16"; correo: ""; log: "false"}.
+* niño3: {usuario: "Ali"; contraseña: "ali9876"; edad: "15"; correo: ""; log: "false"}.
+* niño4: {usuario: "Mouna"; contraseña: "mouna4321"; edad: "14"; correo: ""; log: "false"}.
 
 ### Administradores:
 * admin1: {usuario: "Juan"; contraseña: "1234"; edad: "29"; correo: "juanJ@gmail.com"; log: "false"}.
