@@ -31,6 +31,13 @@
           <li><a href="#setlistbrowsers">setListBrowsers</a></li>
           <li><a href="#setlistsecurities">setListSecurities</a></li>
           <li><a href="#setlistsocial">setListSocial</a></li>
+          <li><a href="#setlistgamestoadd">setListGamesToAdd</a></li>
+          <li><a href="#setlistproductiontoadd">setListProductionsToAdd</a></li>
+          <li><a href="#setlistbrowsertoadd">setListBrowsersToAdd</a></li>
+          <li><a href="#setlistsecuritiestoadd">setListSecuritiesToAdd</a></li>
+          <li><a href="#setlistsocialstoadd">setListSocialsToAdd</a></li>
+          <li><a href="#deletesoftware">deleteSoftware</a></li>
+          <li><a href="#addsoftware">addSoftware</a></li>
       </ul>
     </li>
   </ol>
@@ -254,4 +261,39 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
     <img src="imagenes/vectorSocial.png" alt="vectorSocial" width="800" height="250">
     <p>Social.h</p>
 </div> 
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
+## setListGamesToAdd
+
+
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
+## setListProductionsToAdd
+
+
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
+## setListBrowsersToAdd
+
+
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
+## setListSecuritiesToAdd
+
+
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
+## setListSocialsToAdd
+
+
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
+## deleteSoftware
+
+
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
+## addSoftware
+
+
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
