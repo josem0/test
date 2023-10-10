@@ -94,12 +94,14 @@ Función de tipo `CircularListUser`, utilizada para creación de objetos y poste
 * usuarioNormal10: {usuario: "Valeria"; contraseña: "valeria444"; edad: "31"; correo: "valeriaR@gmail.com"; log: "false"}.
 <div align="center">
     <img src="imagenes/setListUsers.png" alt="Usuarios" width="800" height="350">
+    <p>main.cpp</p>
 </div>
 
 Para insertar cada usuario en un nodo se realiza una validación inicial para determinar si la lista está vacía, y asignar un usuario al primer nodo, caso contrario se agregará al nodo siguiente.
 
 <div align="center">
     <img src="imagenes/CircularListUser.png" alt="CircularListUser" width="700" height="450">
+    <p>CircularListUser.h</p>
 </div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
@@ -132,9 +134,11 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 * juego20: {nombre: "The Witcher 3: Wild Hunt"; developer: "CD PROJEKT RED"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "18300"; tipo: "Open World"}.
 <div align="center">
     <img src="imagenes/setListGames.png" alt="Juegos" width="800" height="400">
+    <p>main.cpp</p>
 </div>
 <div align="center">
     <img src="imagenes/vectorGame.png" alt="vectorGame" width="800" height="400">
+    <p>Game.h</p>
 </div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
@@ -150,9 +154,11 @@ Función de tipo `vector<Software*>`, utilizada para creación de matrices, obje
 * ofimatica5: {nombre: "Microsoft OneNote"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "100"}.
 <div align="center">
     <img src="imagenes/setListOfficeSuites.png" alt="Ofimatica" width="800" height="300">
+    <p>main.cpp</p>
 </div>
 <div align="center">
     <img src="imagenes/vectorOfficeSuite.png" alt="vectorOfficeSuite" width="800" height="300">
+    <p>OfficeSuite.h</p>
 </div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
@@ -167,9 +173,11 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 * produccion4: {nombre: "Adobe Photoshop"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "163200"; tipo: "Image"}.
 <div align="center">
     <img src="imagenes/setListProductions.png" alt="Produccion" width="850" height="250">
+    <p>main.cpp</p>
 </div>
 <div align="center">
     <img src="imagenes/vectorProduction.png" alt="vectorProduction" width="800" height="250">
+    <p>Production.h</p>
 </div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
@@ -202,9 +210,11 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 * navegador2: {nombre: "Microsoft Edge"; developer: "Microsoft Corporation"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial2"}.
 <div align="center">
     <img src="imagenes/setListBrowsers.png" alt="Navegador" width="800" height="400">
+    <p>main.cpp</p>
 </div>
 <div align="center">
     <img src="imagenes/vectorBrowser.png" alt="vectorBrowser" width="800" height="250">
+    <p>Browser.h</p>
 </div> 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
@@ -221,9 +231,11 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 * seguridad6: {nombre: "Kaspersky Total Security"; developer: "Kaspersky Lab"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "29610"; tipo: "Trojans"}.
 <div align="center">
     <img src="imagenes/setListSecurities.png" alt="Seguridad" width="850" height="300">
+    <p>main.cpp</p>
 </div>
 <div align="center">
     <img src="imagenes/vectorSecurity.png" alt="vectorSecurity" width="800" height="250">
+    <p>Security.h</p>
 </div> 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
@@ -236,8 +248,10 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 * social2: {nombre: "WhatsApp"; developer"Facebook Inc"; clasificacionEdad: "16"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends"}.
 <div align="center">
     <img src="imagenes/setListSocials.png" alt="Social" width="800" height="300">
+    <p>main.cpp</p>
 </div>
 <div align="center">
     <img src="imagenes/vectorSocial.png" alt="vectorSocial" width="800" height="250">
+    <p>Social.h</p>
 </div> 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
