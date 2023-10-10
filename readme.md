@@ -126,7 +126,7 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
 * juego16: {nombre: "God of War: Ragnarok"; developer: "SIE Santa Monica Studio"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "64990"; tipo: "Action"}.
 * juego17: {nombre: "Catherine Full Body"; developer: "Atlus"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "14500"; tipo: "Puzzle"}.
 * juego18: {nombre: "Shadow Warrior"; developer: "Flying Wild Hog"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "15500"; tipo: "Action"}.
-* juego19: {nombre: "Grnad theft Auto V"; developer: "Rockstar Games"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "27192"; tipo: "Open World"}.
+* juego19: {nombre: "Grand theft Auto V"; developer: "Rockstar Games"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "27192"; tipo: "Open World"}.
 * juego20: {nombre: "The Witcher 3: Wild Hunt"; developer: "CD PROJEKT RED"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "18300"; tipo: "Open World"}.
 <div align="center">
     <img src="imagenes/setListGames.png" alt="Juegos" width="800" height="400">
@@ -137,7 +137,7 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
 ### Software de tipo Ofimatica
 * ofimatica1: {nombre: "Microsoft Word"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "1000"}.
 * ofimatica2: {nombre: "Microsoft Excel"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "200"}.
-* ofimatica3: {nombre: "Microsoft PowerPoin"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "700"}.
+* ofimatica3: {nombre: "Microsoft PowerPoint"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "700"}.
 * ofimatica4: {nombre: "Microsoft Outlook"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "2000"}.
 * ofimatica5: {nombre: "Microsoft OneNote"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "100"}.
 <div align="center">
