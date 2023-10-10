@@ -19,7 +19,7 @@
       </ul>
     </li>
     <li>
-        <a href="#codigo">Código</a>
+        <a href="#código">Código</a>
         <ul>
           <li><a href="#set-list-users">setListUsers</a></li>
           <li><a href="#set-list-users">setListGames</a></li>
