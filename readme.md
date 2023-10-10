@@ -156,7 +156,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 * produccion3: {nombre: "OBS Studio"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Streaming"}.
 * produccion4: {nombre: "Adobe Photoshop"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "163200"; tipo: "Image"}.
 <div align="center">
-    <img src="imagenes/setListProductions.png" alt="Produccion" width="850" height="350">
+    <img src="imagenes/setListProductions.png" alt="Produccion" width="850" height="300">
 </div>
     
 ## setListBrowsers
