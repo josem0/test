@@ -63,7 +63,7 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
 Se están utilizando un total de 13 librerías, las cuales se muestran a continuación.
 <div align="center">
     <img src="imagenes/Library.png" alt="Library" width="400" height="200">
-    <a>main.cpp</a>
+    <p>main.cpp</p>
 </div>
 
 # Código
