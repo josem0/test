@@ -100,7 +100,7 @@ Función de tipo CircularListUser, utilizada para creación de objetos y posteri
 Para insertar cada usuario en un nodo se realiza una validación inicial para determinar si la lista está vacía, y asignar un usuario al primer nodo, caso contrario se agregará al nodo siguiente.
 
 <div align="center">
-    <img src="imagenes/CircularListUser.png" alt="CircularListUser" width="700" height="350">
+    <img src="imagenes/CircularListUser.png" alt="CircularListUser" width="800" height="350">
 </div>
 
 ## setListGames
