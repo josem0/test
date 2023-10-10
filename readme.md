@@ -276,7 +276,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente agregar nuevos software de producción en un vector. 
 <div align="center">
-    <img src="imagenes/setListProductionsToAdd.png" alt="setListProductionsToAdd" width="800" height="300">
+    <img src="imagenes/setListProductionsToAdd.png" alt="setListProductionsToAdd" width="800" height="200">
     <p>main.cpp</p>
 </div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
@@ -312,7 +312,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 
 Función de tipo `vector<Software*>`, utilizada para eliminar un software de la biblioteca, con la condición de que es necesaria la aprobación de todos los usuarios. 
 <div align="center">
-    <img src="imagenes/deleteSoftware.png" alt="deleteSoftware" width="800" height="300">
+    <img src="imagenes/deleteSoftware.png" alt="deleteSoftware" width="800" height="350">
     <p>main.cpp</p>
 </div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
