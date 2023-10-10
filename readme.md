@@ -97,7 +97,7 @@ Función de tipo CircularListUser, utilizada para creación de objetos y posteri
     <img src="imagenes/setListUsers.png" alt="Usuarios" width="800" height="350">
 </div>
 <div align="center">
-    <img src="imagenes/CircularListUser.png" alt="CircularListUser" width="800" height="250">
+    <img src="imagenes/CircularListUser.png" alt="CircularListUser" width="600" height="350">
 </div>
 ## setListGames
 
