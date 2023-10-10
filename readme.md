@@ -100,6 +100,7 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
 <div align="center">
     <img src="imagenes/CircularListUser.png" alt="CircularListUser" width="700" height="450">
 </div>
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListGames
 
@@ -134,6 +135,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 <div align="center">
     <img src="imagenes/vectorGame.png" alt="vectorGame" width="800" height="400">
 </div>
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListOfficeSuites
 
@@ -151,7 +153,8 @@ Función de tipo `vector<Software*>`, utilizada para creación de matrices, obje
 <div align="center">
     <img src="imagenes/vectorOfficeSuite.png" alt="vectorOfficeSuite" width="800" height="300">
 </div>
-   
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
 ## setListProductions
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente la asignación de los software de producción en un vector. 
@@ -167,6 +170,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 <div align="center">
     <img src="imagenes/vectorProduction.png" alt="vectorProduction" width="800" height="250">
 </div>
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListBrowsers
 
@@ -198,7 +202,11 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 <div align="center">
     <img src="imagenes/setListBrowsers.png" alt="Navegador" width="800" height="400">
 </div>
-    
+<div align="center">
+    <img src="imagenes/vectorBrowser.png" alt="vectorBrowser" width="800" height="250">
+</div> 
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
+
 ## setListSecurities
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente la asignación de los software de seguridad en un vector. 
@@ -213,6 +221,10 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 <div align="center">
     <img src="imagenes/setListSecurities.png" alt="Seguridad" width="850" height="300">
 </div>
+<div align="center">
+    <img src="imagenes/vectorSecurity.png" alt="vectorSecurity" width="800" height="250">
+</div> 
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListSocial
 
@@ -224,4 +236,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 <div align="center">
     <img src="imagenes/setListSocials.png" alt="Social" width="800" height="300">
 </div>
+<div align="center">
+    <img src="imagenes/vectorSocial.png" alt="vectorSocial" width="800" height="250">
+</div> 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
