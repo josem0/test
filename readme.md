@@ -265,35 +265,45 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 
 ## setListGamesToAdd
 
-
+Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente agregar nuevos juegos en un vector. 
+<div align="center">
+    <img src="imagenes/setListGamesToAdd.png" alt="setListGamesToAdd" width="800" height="300">
+    <p>main.cpp</p>
+</div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListProductionsToAdd
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListBrowsersToAdd
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListSecuritiesToAdd
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListSocialsToAdd
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## deleteSoftware
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## addSoftware
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
