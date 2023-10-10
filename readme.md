@@ -64,7 +64,7 @@ Use the `BLANK_README.md` to get started.
 # Librerías
 Se están utilizando un total de 13 librerías, las cuales se muestran a continuación.
 <div align="center">
-    <img src="imagenes/librerias.png" alt="Logo" width="800" height="300">
+    <img src="imagenes/Library.png" alt="Library" width="800" height="300">
 </div>
 
 # Código
@@ -73,7 +73,6 @@ A continuación se detallan las funcionas usadas en la creación del taller.
 ## setListUsers
 Función de tipo CircularListUser, utilizada para creación de objetos y posteriormente la asignación de cada usuario en una lista circular. 
 
-Creación de objetos
 ### Niños:
 * niño1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "17"; correo: ""; log: "false"}.
 * niño2: {usuario: "Ana"; contraseña: "ana5678"; edad: "16"; correo: ""; log: "false"}.
@@ -97,7 +96,9 @@ Creación de objetos
 <div align="center">
     <img src="imagenes/setListUsers.png" alt="Usuarios" width="800" height="350">
 </div>
-
+<div align="center">
+    <img src="imagenes/CircularListUser.png" alt="CircularListUser" width="800" height="350">
+</div>
 ## setListGames
 
 ### Software de tipo Juego
