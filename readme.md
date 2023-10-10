@@ -19,6 +19,9 @@
       </ul>
     </li>
     <li>
+        <a href="#librerías">Librerías</a>
+    </li>
+    <li>
         <a href="#código">Código</a>
         <ul>
           <li><a href="#set-list-users">setListUsers</a></li>
@@ -58,11 +61,19 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
+# Librerías
+Se están utilizando un total de 13 librerías, las cuales se muestran a continuación.
+<div align="center">
+    <img src="imagenes/librerias.png" alt="Logo" width="800" height="300">
+</div>
+
 # Código
-A continuación se detallan las funcionas usadas en el taller, incluyendo la creación de objetos.
+A continuación se detallan las funcionas usadas en la creación del taller.
 
 ## setListUsers
+Función de tipo CircularListUser, utilizada para creación de objetos y posteriormente la asignación de cada usuario en una lista circular. 
 
+Creación de objetos
 ### Niños:
 * niño1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "17"; correo: ""; log: "false"}.
 * niño2: {usuario: "Ana"; contraseña: "ana5678"; edad: "16"; correo: ""; log: "false"}.
