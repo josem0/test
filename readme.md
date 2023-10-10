@@ -24,7 +24,13 @@
     <li>
         <a href="#código">Código</a>
         <ul>
-          <li><a href="#set-list-users">setListUsers</a></li>
+          <li><a href="#setlistusers">setListUsers</a></li>
+          <li><a href="#setlistgames">setListGames</a></li>
+          <li><a href="#setlistofficesuites">setListOfficeSuites</a></li>
+          <li><a href="#setlistproductions">setListProductions</a></li>
+          <li><a href="#setlistbrowsers">setListBrowsers</a></li>
+          <li><a href="#setlistsecurities">setListSecurities</a></li>
+          <li><a href="#setlistsocial">setListSocial</a></li>
       </ul>
     </li>
   </ol>
