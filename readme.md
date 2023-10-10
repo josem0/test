@@ -176,8 +176,8 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 ### Software de tipo Produccion
 * produccion1: {nombre: "Audacity"; developer: "The Audacity Team"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Audio"}.
 * produccion2: {nombre: "Vegas Pro"; developer: "Sony Creative Software"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "54000"; tipo: "Video"}.
-* produccion3: {nombre: "OBS Studio"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Streaming"}.
-* produccion4: {nombre: "Adobe Photoshop"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "163200"; tipo: "Image"}.
+* produccion3: {nombre: "OBS Studio"; developer: "Lain Bailey"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Streaming"}.
+* produccion4: {nombre: "Adobe Photoshop"; developer: "Adobe Inc"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "163200"; tipo: "Image"}.
 <div align="center">
     <img src="imagenes/setListProductions.png" alt="Produccion" width="850" height="250">
     <p>main.cpp</p>
@@ -252,7 +252,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 
 ### Software de tipo Social
 * social1: {nombre: "Discord"; developer: "Electron"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends18"}.
-* social2: {nombre: "WhatsApp"; developer"Facebook Inc"; clasificacionEdad: "16"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends"}.
+* social2: {nombre: "WhatsApp"; developer: a"Facebook Inc"; clasificacionEdad: "16"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends"}.
 <div align="center">
     <img src="imagenes/setListSocials.png" alt="Social" width="800" height="300">
     <p>main.cpp</p>
@@ -266,6 +266,17 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 ## setListGamesToAdd
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente agregar nuevos juegos en un vector. 
+
+* juego1: {nombre: "Assassin's Creed Valhalla"; developer: "Ubisoft"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "4999"; tipo: "Action-Adventure"}.
+* juego2: {nombre: "The Elder Scrolls V: Skyrim"; developer: "Bethesda"; clasificacionEdad: "17"; listaUsuarios: "listUsers"; precio: "3999"; tipo: "Action-RPG"}.
+* juego3: {nombre: "Call of Duty: Warzone"; developer: "Activision"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Battle Royale"}.
+* juego4: {nombre: "Among Us"; developer: "InnerSloth"; clasificacionEdad: "10"; listaUsuarios: "listUsers"; precio: "499"; tipo: "Social Deduction"}.
+* juego5: {nombre: "Genshin Impact"; developer: "miHoYo"; clasificacionEdad: "12"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Action-RPG"}.
+* juego6: {nombre: "Terraria"; developer: "Re-Logic"; clasificacionEdad: "10"; listaUsuarios: "listUsers"; precio: "1499"; tipo: "Sandbox"}.
+* juego7: {nombre: "Overwatch"; developer: "Blizzard Entertainment"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "1999"; tipo: "First-Person Shooter"}.
+* juego8: {nombre: "Animal Crossing: New Horizons"; developer: "Nintendo"; clasificacionEdad: "3"; listaUsuarios: "listUsers"; precio: "5999"; tipo: "Life Simulation"}.
+* juego9: {nombre: "Hades"; developer: "Supergiant Games"; clasificacionEdad: "12"; listaUsuarios: "listUsers"; precio: "1999"; tipo: "Roguelike"}.
+* juego10: {nombre: "Celeste"; developer: "Maddy Makes Games"; clasificacionEdad: "10"; listaUsuarios: "listUsers"; precio: "999"; tipo: "Platformer"}.
 <div align="center">
     <img src="imagenes/setListGamesToAdd.png" alt="setListGamesToAdd" width="800" height="300">
     <p>main.cpp</p>
@@ -275,6 +286,11 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 ## setListProductionsToAdd
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente agregar nuevos software de producción en un vector. 
+
+* produccion5: {nombre: "Logic Pro X"; developer: "Apple Inc"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "199.99"; tipo: "Audio"}.
+* produccion6: {nombre: "Premiere Pro"; developer: "Adobe Inc"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "239.88"; tipo: "Video"}.
+* produccion7: {nombre: "Streamlabs OBS"; developer: "Streamlabs"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Streaming"}.
+* produccion8: {nombre: "GIMP"; developer: "The GIMP Team"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Image"}.
 <div align="center">
     <img src="imagenes/setListProductionsToAdd.png" alt="setListProductionsToAdd" width="800" height="200">
     <p>main.cpp</p>
@@ -284,6 +300,12 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 ## setListBrowsersToAdd
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar el historial con un navegador y posteriormente agregar nuevos navegadores en un vector. 
+
+* historial3: {""}.
+* navegador1: {nombre: "Mozilla Firefox"; developer: "Mozilla Foundation"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial3"}.
+ * navegador2: {nombre: "Google Chrome"; developer: "Google LLC"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial3"}.
+ * navegador3: {nombre: "Safari"; developer: "Apple Inc"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial3"}.
+ * navegador4: {nombre: "Opera"; developer: "Opera Software"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "0"; historial: "historial3"}.
 <div align="center">
     <img src="imagenes/setListBrowsersToAdd.png" alt="setListBrowsersToAdd" width="800" height="300">
     <p>main.cpp</p>
@@ -293,6 +315,11 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos, relac
 ## setListSecuritiesToAdd
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente agregar nuevos software de seguridad en un vector. 
+
+* seguridad1: {nombre: "Avast Antivirus"; developer: "Avast Software"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Viruses"}.
+* seguridad2: {nombre: "McAfee Total Protection"; developer: "McAfee LLC"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: 2999"; tipo: "Malware"}.
+* seguridad3: {nombre: "Bitdefender Antivirus Plus"; developer: "Bitdefender"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "1999"; tipo: "Phishing"}.
+* seguridad4: {nombre: "ESET NOD32 Antivirus"; developer: "ESET"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "2995"; tipo: "Spyware"}.
 <div align="center">
     <img src="imagenes/setListSecuritiesToAdd.png" alt="setListSecuritiesToAdd" width="800" height="300">
     <p>main.cpp</p>
@@ -302,6 +329,9 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 ## setListSocialsToAdd
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente agregar nuevos software sociales en un vector.
+
+* social3: {nombre: "Facebook"; developer: "Meta Platforms, Inc."; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends18"}.
+* social4: {nombre: "Instagram"; developer: "Meta Platforms, Inc."; clasificacionEdad: "17"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends"}.
 <div align="center">
     <img src="imagenes/setListSocialsToAdd.png" alt="setListSocialsToAdd" width="800" height="300">
     <p>main.cpp</p>
