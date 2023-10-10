@@ -57,8 +57,6 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
     <img src="imagenes/consideraciones2.png" alt="Logo" width="800" height="300">
 </div>
 
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 # Librerías
@@ -71,7 +69,7 @@ Se están utilizando un total de 13 librerías, las cuales se muestran a continu
 A continuación se detallan las funcionas usadas en la creación del taller.
 
 ## setListUsers
-Función de tipo CircularListUser, utilizada para creación de objetos y posteriormente la asignación de cada usuario en una lista circular. 
+Función de tipo `CircularListUser`, utilizada para creación de objetos y posteriormente la asignación de cada usuario en una lista circular. 
 
 ### Niños:
 * niño1: {usuario: "Carlos"; contraseña: "carlos1234"; edad: "17"; correo: ""; log: "false"}.
@@ -105,6 +103,8 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
 
 ## setListGames
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente la asignación de los juegos en un vector. 
+
 ### Software de tipo Juego
 * juego1: {nombre: "The Legend of Zelda: Breath of the Wild"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "58990"; tipo: "Adventure"}.
 * juego2: {nombre: "The Legend of Zelda: Tears of the Kingdom"; developer: "Nintendo"; clasificacionEdad: "15"; listaUsuarios: "listUsers"; precio: "68790"; tipo: "Adventure"}.
@@ -134,6 +134,8 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
 
 ## setListOfficeSuites
 
+Función de tipo `vector<Software*>`, utilizada para creación de matrices, objetos y posteriormente la asignación de los software de ofimática en un vector. 
+
 ### Software de tipo Ofimatica
 * ofimatica1: {nombre: "Microsoft Word"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "1000"}.
 * ofimatica2: {nombre: "Microsoft Excel"; developer: "Microsoft"; clasificacionEdad: "13"; listaUsuarios: "listUsers"; precio: "139990"; cantidadarchivos: "200"}.
@@ -146,6 +148,8 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
    
 ## setListProductions
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente la asignación de los software de producción en un vector. 
+
 ### Software de tipo Produccion
 * produccion1: {nombre: "Audacity"; developer: "The Audacity Team"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Audio"}.
 * produccion2: {nombre: "Vegas Pro"; developer: "Sony Creative Software"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "54000"; tipo: "Video"}.
@@ -156,6 +160,8 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
 </div>
     
 ## setListBrowsers
+
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar el historial con un navegador y posteriormente la asignación de los navegadores en un vector. 
 
 ### Software de tipo Navegador
 * historial1: {"https://www.op.gg/summoners/kr/hide%20on%20bush",
@@ -186,6 +192,8 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
     
 ## setListSecurities
 
+Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente la asignación de los software de seguridad en un vector. 
+
 ### Software de tipo Seguridad
 * seguridad1: {nombre: "Malwarebytes Anti-Ransomware"; developer: "Malwarebytes Corporation"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "7000"; tipo: "Ransomware"}.
 * seguridad2: {nombre: "Ad-Aware"; developer: "Lavasoft"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Spyware"}.
@@ -198,6 +206,8 @@ Para insertar cada usuario en un nodo se realiza una validación inicial para de
 </div>
 
 ## setListSocial
+
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
 
 ### Software de tipo Social
 * social1: {nombre: "Discord"; developer: "Electron"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; usuarios: "listfriends18"}.
