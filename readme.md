@@ -149,7 +149,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de matrices, obje
     <img src="imagenes/setListOfficeSuites.png" alt="Ofimatica" width="800" height="300">
 </div>
 <div align="center">
-    <img src="imagenes/vectorOfficeSuite.png" alt="vectorOfficeSuite" width="800" height="400">
+    <img src="imagenes/vectorOfficeSuite.png" alt="vectorOfficeSuite" width="800" height="350">
 </div>
    
 ## setListProductions
@@ -165,7 +165,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
     <img src="imagenes/setListProductions.png" alt="Produccion" width="850" height="250">
 </div>
 <div align="center">
-    <img src="imagenes/vectorProduction.png" alt="vectorProduction" width="800" height="400">
+    <img src="imagenes/vectorProduction.png" alt="vectorProduction" width="800" height="300">
 </div>
 
 ## setListBrowsers
