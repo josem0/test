@@ -131,6 +131,9 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 <div align="center">
     <img src="imagenes/setListGames.png" alt="Juegos" width="800" height="400">
 </div>
+<div align="center">
+    <img src="imagenes/vectorGame.png" alt="vectorGame" width="800" height="400">
+</div>
 
 ## setListOfficeSuites
 
