@@ -202,7 +202,7 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 * seguridad5: {nombre: "Norton 360"; developer: "Norton"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "16000"; tipo: "Computer Worms"}.
 * seguridad6: {nombre: "Kaspersky Total Security"; developer: "Kaspersky Lab"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "29610"; tipo: "Trojans"}.
 <div align="center">
-    <img src="imagenes/setListSecurities.png" alt="Seguridad" width="800" height="350">
+    <img src="imagenes/setListSecurities.png" alt="Seguridad" width="850" height="300">
 </div>
 
 ## setListSocial
