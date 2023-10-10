@@ -274,36 +274,54 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 
 ## setListProductionsToAdd
 
-Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
-
+Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente agregar nuevos software de producción en un vector. 
+<div align="center">
+    <img src="imagenes/setListProductionsToAdd.png" alt="setListProductionsToAdd" width="800" height="300">
+    <p>main.cpp</p>
+</div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListBrowsersToAdd
 
-Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
-
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar el historial con un navegador y posteriormente agregar nuevos navegadores en un vector. 
+<div align="center">
+    <img src="imagenes/setListBrowsersToAdd.png" alt="setListBrowsersToAdd" width="800" height="300">
+    <p>main.cpp</p>
+</div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListSecuritiesToAdd
 
-Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
-
+Función de tipo `vector<Software*>`, utilizada para creación de objetos y posteriormente agregar nuevos software de seguridad en un vector. 
+<div align="center">
+    <img src="imagenes/setListSecuritiesToAdd.png" alt="setListSecuritiesToAdd" width="800" height="300">
+    <p>main.cpp</p>
+</div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## setListSocialsToAdd
 
-Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
-
+Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente agregar nuevos software sociales en un vector.
+<div align="center">
+    <img src="imagenes/setListSocialsToAdd.png" alt="setListSocialsToAdd" width="800" height="300">
+    <p>main.cpp</p>
+</div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## deleteSoftware
 
-Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
-
+Función de tipo `vector<Software*>`, utilizada para eliminar un software de la biblioteca, con la condición de que es necesaria la aprobación de todos los usuarios. 
+<div align="center">
+    <img src="imagenes/deleteSoftware.png" alt="deleteSoftware" width="800" height="300">
+    <p>main.cpp</p>
+</div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 ## addSoftware
 
-Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar la lista de amigos con el software y posteriormente la asignación de los software sociales en un vector. 
-
+Función de tipo `vector<Software*>`, utilizada para agregar un software de la biblioteca. 
+<div align="center">
+    <img src="imagenes/addSoftware.png" alt="addSoftware" width="800" height="300">
+    <p>main.cpp</p>
+</div>
 <p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
