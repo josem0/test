@@ -25,12 +25,12 @@
         <a href="#código">Código</a>
         <ul>
           <li><a href="#set-list-users">setListUsers</a></li>
-          <li><a href="#set-list-users">setListGames</a></li>
-          <li><a href="#set-list-users">setListOfficeSuites</a></li>
-          <li><a href="#set-list-users">setListProductions</a></li>
-          <li><a href="#set-list-users">setListBrowsers</a></li>
-          <li><a href="#set-list-users">setListUsers</a></li>
-          <li><a href="#set-list-users">setListUsers</a></li>
+          <li><a href="#set-list-games">setListGames</a></li>
+          <li><a href="#set-list-office-suites">setListOfficeSuites</a></li>
+          <li><a href="#set-list-productions">setListProductions</a></li>
+          <li><a href="#set-list-browsers">setListBrowsers</a></li>
+          <li><a href="#set-list-securities">setListSecurities</a></li>
+          <li><a href="#set-list-social">setListSocial</a></li>
       </ul>
     </li>
   </ol>
