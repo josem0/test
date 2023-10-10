@@ -56,7 +56,7 @@ Se desarrolló un programa para el manejo de software según los siguientes requ
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
 
 # Código
 A continuación se detallan las funcionas usadas en el taller, incluyendo la creación de objetos.
@@ -189,4 +189,4 @@ A continuación se detallan las funcionas usadas en el taller, incluyendo la cre
 <div align="center">
     <img src="imagenes/setListSocials.png" alt="Social" width="800" height="300">
 </div>
-<p align="right">(<a href="#arriba">Ir a Arriba</a>)</p>
+<p align="right">(<a href="#arriba">Ir a Inicio</a>)</p>
