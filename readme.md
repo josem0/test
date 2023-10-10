@@ -154,9 +154,9 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 * produccion1: {nombre: "Audacity"; developer: "The Audacity Team"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Audio"}.
 * produccion2: {nombre: "Vegas Pro"; developer: "Sony Creative Software"; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "54000"; tipo: "Video"}.
 * produccion3: {nombre: "OBS Studio"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "0"; tipo: "Streaming"}.
-* produccion4: {nombre: "Adobe Photoshop"; developer: ""; clasificacionEdad: "128"; listaUsuarios: "listUsers"; precio: "163200"; tipo: "Image"}.
+* produccion4: {nombre: "Adobe Photoshop"; developer: ""; clasificacionEdad: "18"; listaUsuarios: "listUsers"; precio: "163200"; tipo: "Image"}.
 <div align="center">
-    <img src="imagenes/setListProductions.png" alt="Produccion" width="850" height="400">
+    <img src="imagenes/setListProductions.png" alt="Produccion" width="850" height="350">
 </div>
     
 ## setListBrowsers
