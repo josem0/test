@@ -148,6 +148,9 @@ Función de tipo `vector<Software*>`, utilizada para creación de matrices, obje
 <div align="center">
     <img src="imagenes/setListOfficeSuites.png" alt="Ofimatica" width="800" height="300">
 </div>
+<div align="center">
+    <img src="imagenes/vectorOfficeSuites.png" alt="vectorOfficeSuites" width="800" height="400">
+</div>
    
 ## setListProductions
 
@@ -161,7 +164,10 @@ Función de tipo `vector<Software*>`, utilizada para creación de objetos y post
 <div align="center">
     <img src="imagenes/setListProductions.png" alt="Produccion" width="850" height="250">
 </div>
-    
+<div align="center">
+    <img src="imagenes/vectorProductions.png" alt="vectorProductions" width="800" height="400">
+</div>
+
 ## setListBrowsers
 
 Función de tipo `vector<Software*>`, utilizada para creación de objetos, relacionar el historial con un navegador y posteriormente la asignación de los navegadores en un vector. 
